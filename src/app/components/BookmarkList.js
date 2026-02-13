@@ -122,7 +122,7 @@ export default function BookmarkList({ user }) {
             className="group bg-white p-4 rounded-xl border border-gray-100 shadow-sm hover:shadow-md transition-all duration-200 flex justify-between items-center"
           >
             <div className="flex items-center gap-3 overflow-hidden">
-              <div className="flex-shrink-0 w-10 h-10 bg-blue-50 text-blue-600 rounded-lg flex items-center justify-center">
+              <div className="shrink-0 w-10 h-10 bg-blue-50 text-blue-600 rounded-lg flex items-center justify-center">
                 <svg
                   className="w-5 h-5"
                   fill="none"

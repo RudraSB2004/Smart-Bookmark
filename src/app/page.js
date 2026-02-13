@@ -48,7 +48,7 @@ export default function Home() {
 
   // 4. Modern Landing Page UI
   return (
-    <main className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-white to-gray-50 px-4">
+    <main className="min-h-screen flex flex-col items-center justify-center bg-linear-to-b from-white to-gray-50 px-4">
       <div className="w-full max-w-md space-y-8 text-center">
         {/* Animated Logo */}
         <div className="mx-auto w-16 h-16 bg-black rounded-2xl flex items-center justify-center shadow-xl rotate-3 hover:rotate-6 transition-transform duration-300">
